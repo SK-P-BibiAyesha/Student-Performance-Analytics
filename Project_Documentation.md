@@ -144,3 +144,4 @@ The project demonstrates the practical application of Python fundamentals, NumPy
 ## 11. GitHub Repository
 
 Add the GitHub repository URL here.
+[https://github.com/SK-P-BibiAyesha/Student-Performance-Analytics.git]

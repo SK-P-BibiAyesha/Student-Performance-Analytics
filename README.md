@@ -48,7 +48,7 @@ Student-Performance-Analytics/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/SK-P-BibiAyesha/Student-Performance-Analytics.git
 ```
 
 Navigate into the project:
